@@ -1,18 +1,78 @@
-# 💫 About Me:
-I am a B.Tech Computer Science Engineering student from Bennett University, Greater Noida, graduating in 2027. With a strong interest in both software development and AI, I am actively building my skills as a Full Stack Developer and exploring the field of Machine Learning. I enjoy combining creativity with technology to develop meaningful and user-friendly applications.<br><br>
+<h2 align="left">👋 Hi, I'm Divyansh Prakhar</h2>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-prakhar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyanshprakhar@gmail.com) 
+<p align="left">I am a B.Tech Computer Science Engineering student from Bennett University, Greater Noida, graduating in 2027. With a strong interest in both software development and AI, I am actively building my skills as a Full Stack Developer and exploring the field of Machine Learning. I enjoy combining creativity with technology to develop meaningful and user-friendly applications.</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Divyansh-Prakhar&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Divyansh-Prakhar&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Prakhar&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=Divyansh-Prakhar&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Prakhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh-Prakhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Divyansh-Prakhar/Divyansh-Prakhar/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">💼 Projects</h2>
+
+###
+
+<p align="left">Movie Recommendation System<br>A personalized movie recommender system built using collaborative filtering and content-based filtering techniques.<br>Tech Stack: Python, Pandas, scikit-learn, Streamlit<br><br>FrogeFit – Fitness Tracking Website<br>A futuristic, dark-themed fitness platform that offers personalized workout and diet plans based on user preferences and goals. The project includes both frontend and backend functionalities.<br>Tech Stack: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Node.js, Express.js, MySQL<br><br>Maintenance Calorie Calculator<br>A simple and responsive web tool that calculates daily maintenance calories based on user input such as age, gender, height, weight, and activity level. Includes backend processing using JSP.<br>Tech Stack: HTML, CSS, JavaScript, JSP, MySQL</p>
+
+###
+
+<h2 align="left">🛠️ Skills</h2>
+
+###
+
+<p align="left">Languages: C++, Python, JavaScript, HTML, CSS<br>Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Figma (UI Design)<br>Backend: JSP, Node.js, Express.js<br>Database: MySQL<br>Tools & Cloud: Git, GitHub, AWS (EC2, S3, Lambda)<br>Machine Learning & Data Science: NumPy, Pandas, scikit-learn</p>
+
+###
+
+<h2 align="left">📫 Let's Connect!</h2>
+
+###
+
+<p align="left">Email: divyanshprakhar07@gmail.com<br>LinkedIn: linkedin.com/in/divyansh-prakhar-8410a528b</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Divyansh-Prakhar/count.svg?"  />
+</div>
+
+###
