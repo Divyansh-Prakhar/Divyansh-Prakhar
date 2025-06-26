@@ -6,6 +6,15 @@ I am a B.Tech Computer Science Engineering student from Bennett University, Grea
 
 ---
 
+<h2 align="left">📫 Let's Connect!</h2>
+
+<ul align="left">
+  <li><strong>Email:</strong> divyanshprakhar@gmail.com</li>
+  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/divyansh-prakhar-8410a528b" target="_blank">linkedin.com/in/divyansh-prakhar-8410a528b</a></li>
+</ul>
+
+---
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyansh-prakhar-8410a528b)
@@ -73,35 +82,5 @@ I am a B.Tech Computer Science Engineering student from Bennett University, Grea
 </ul>
 
 ---
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Prakhar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Divyansh-Prakhar&theme=gotham&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-Prakhar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Divyansh-Prakhar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
-
----
-
-<h2 align="left">📫 Let's Connect!</h2>
-
-<ul align="left">
-  <li><strong>Email:</strong> divyanshprakhar@gmail.com</li>
-  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/divyansh-prakhar-8410a528b" target="_blank">linkedin.com/in/divyansh-prakhar-8410a528b</a></li>
-</ul>
-
----
-
 
 
