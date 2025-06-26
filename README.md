@@ -1,17 +1,6 @@
 <h2 align="left">👋 Hi, I'm Divyansh Prakhar</h2>
 
-###
-
 <p align="left">I am a B.Tech Computer Science Engineering student from Bennett University, Greater Noida, graduating in 2027. With a strong interest in both software development and AI, I am actively building my skills as a Full Stack Developer and exploring the field of Machine Learning. I enjoy combining creativity with technology to develop meaningful and user-friendly applications.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Prakhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh-Prakhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,34 +24,54 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+---
 
 <h2 align="left">💼 Projects</h2>
 
-###
+<ul align="left">
+  <li>
+    <strong>🎬 Movie Recommendation System</strong><br>
+    A personalized movie recommender system built using collaborative filtering and content-based filtering techniques.<br>
+    <strong>Tech Stack:</strong> Python, Pandas, scikit-learn, Streamlit
+  </li><br>
+  <li>
+    <strong>💪 FrogeFit – Fitness Tracking Website</strong><br>
+    A futuristic, dark-themed fitness platform that offers personalized workout and diet plans based on user preferences and goals.<br>
+    Includes both frontend and backend functionalities.<br>
+    <strong>Tech Stack:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Node.js, Express.js, MySQL
+  </li><br>
+  <li>
+    <strong>🔥 Maintenance Calorie Calculator</strong><br>
+    A simple and responsive web tool that calculates daily maintenance calories based on user input such as age, gender, height, weight, and activity level.<br>
+    Includes backend processing using JSP.<br>
+    <strong>Tech Stack:</strong> HTML, CSS, JavaScript, JSP
+  </li>
+</ul>
 
-<p align="left">Movie Recommendation System<br>A personalized movie recommender system built using collaborative filtering and content-based filtering techniques.<br>Tech Stack: Python, Pandas, scikit-learn, Streamlit<br><br>FrogeFit – Fitness Tracking Website<br>A futuristic, dark-themed fitness platform that offers personalized workout and diet plans based on user preferences and goals. The project includes both frontend and backend functionalities.<br>Tech Stack: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Node.js, Express.js, MySQL<br><br>Maintenance Calorie Calculator<br>A simple and responsive web tool that calculates daily maintenance calories based on user input such as age, gender, height, weight, and activity level. Includes backend processing using JSP.<br>Tech Stack: HTML, CSS, JavaScript, JSP, MySQL</p>
-
-###
+---
 
 <h2 align="left">🛠️ Skills</h2>
 
-###
+<ul align="left">
+  <li><strong>Languages:</strong> C++, Python, JavaScript, HTML, CSS</li>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Figma (UI Design)</li>
+  <li><strong>Backend:</strong> JSP, Node.js, Express.js</li>
+  <li><strong>Database:</strong> MySQL</li>
+  <li><strong>Tools & Cloud:</strong> Git, GitHub, AWS (EC2, S3, Lambda)</li>
+  <li><strong>Machine Learning & Data Science:</strong> NumPy, Pandas, scikit-learn</li>
+</ul>
 
-<p align="left">Languages: C++, Python, JavaScript, HTML, CSS<br>Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Figma (UI Design)<br>Backend: JSP, Node.js, Express.js<br>Database: MySQL<br>Tools & Cloud: Git, GitHub, AWS (EC2, S3, Lambda)<br>Machine Learning & Data Science: NumPy, Pandas, scikit-learn</p>
-
-###
+---
 
 <h2 align="left">📫 Let's Connect!</h2>
 
-###
+<ul align="left">
+  <li><strong>Email:</strong> divyanshprakhar07@gmail.com</li>
+  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/divyansh-prakhar-8410a528b">linkedin.com/in/divyansh-prakhar-8410a528b</a></li>
+</ul>
 
-<p align="left">Email: divyanshprakhar07@gmail.com<br>LinkedIn: linkedin.com/in/divyansh-prakhar-8410a528b</p>
-
-###
+---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Divyansh-Prakhar/count.svg?"  />
 </div>
-
-###
