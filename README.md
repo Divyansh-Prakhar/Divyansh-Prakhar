@@ -66,7 +66,7 @@
 <h2 align="left">📫 Let's Connect!</h2>
 
 <ul align="left">
-  <li><strong>Email:</strong> divyanshprakhar07@gmail.com</li>
+  <li><strong>Email:</strong> divyanshprakhar@gmail.com</li>
   <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/divyansh-prakhar-8410a528b">linkedin.com/in/divyansh-prakhar-8410a528b</a></li>
 </ul>
 
