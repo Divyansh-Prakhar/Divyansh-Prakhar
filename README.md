@@ -5,8 +5,8 @@ I am a B.Tech Computer Science Engineering student from Bennett University, Grea
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Prakhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh-Prakhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-Prakhar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyansh-Prakhar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 <div align="left">
@@ -31,28 +31,25 @@ I am a B.Tech Computer Science Engineering student from Bennett University, Grea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyansh-Prakhar/Divyansh-Prakhar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyansh-Prakhar/Divyansh-Prakhar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Divyansh-Prakhar/Divyansh-Prakhar/output/pacman-contribution-graph.svg">
-</picture>
-
 <h2 align="left">💼 Projects</h2>
 
 <ul align="left">
-  <li><strong>Movie Recommendation System</strong><br>
-    A personalized movie recommender system built using collaborative filtering and content-based filtering techniques.<br>
-    <strong>Tech Stack:</strong> Python, Pandas, scikit-learn, Streamlit
-  </li>
-  <br>
-  <li><strong>FrogeFit – Fitness Tracking Website</strong><br>
-    A futuristic, dark-themed fitness platform that offers personalized workout and diet plans based on user preferences and goals. Includes frontend and backend functionalities.<br>
-    <strong>Tech Stack:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Node.js, Express.js, MySQL
-  </li>
-  <br>
-  <li><strong>Maintenance Calorie Calculator</strong><br>
-    A simple and responsive web tool that calculates daily maintenance calories based on user input such as age, gender, height, weight, and activity level. Backend processing via JSP.<br>
-    <strong>Tech Stack:</strong> HTML, CSS, JavaScript, JSP, MySQL
+  <li>
+    <strong>Movie Recommendation System</strong><br>
+    • Built a personalized movie recommender using collaborative and content-based filtering techniques.<br>
+    • <strong>Tech Stack:</strong> Python, Pandas, scikit-learn, Streamlit
+  </li><br>
+  <li>
+    <strong>FrogeFit – Fitness Tracking Website</strong><br>
+    • A futuristic, dark-themed platform offering personalized workout and diet plans.<br>
+    • Includes both frontend and backend functionalities.<br>
+    • <strong>Tech Stack:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Node.js, Express.js, MySQL
+  </li><br>
+  <li>
+    <strong>Maintenance Calorie Calculator</strong><br>
+    • Responsive tool to calculate maintenance calories from user input.<br>
+    • Backend powered by JSP for processing logic.<br>
+    • <strong>Tech Stack:</strong> HTML, CSS, JavaScript, JSP, MySQL
   </li>
 </ul>
 
@@ -60,19 +57,19 @@ I am a B.Tech Computer Science Engineering student from Bennett University, Grea
 
 <ul align="left">
   <li><strong>Languages:</strong> C++, Python, JavaScript, HTML, CSS</li>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Figma (UI Design)</li>
+  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Figma</li>
   <li><strong>Backend:</strong> JSP, Node.js, Express.js</li>
   <li><strong>Database:</strong> MySQL</li>
   <li><strong>Tools & Cloud:</strong> Git, GitHub, AWS (EC2, S3, Lambda)</li>
-  <li><strong>Machine Learning & Data Science:</strong> NumPy, Pandas, scikit-learn</li>
+  <li><strong>ML & Data Science:</strong> NumPy, Pandas, scikit-learn</li>
 </ul>
 
 <h2 align="left">📫 Let's Connect!</h2>
 
-<p align="left">
-  Email: divyanshprakhar07@gmail.com<br>
-  LinkedIn: <a href="https://www.linkedin.com/in/divyansh-prakhar-8410a528b">linkedin.com/in/divyansh-prakhar-8410a528b</a>
-</p>
+<ul align="left">
+  <li>Email: divyanshprakhar07@gmail.com</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/divyansh-prakhar-8410a528b">linkedin.com/in/divyansh-prakhar-8410a528b</a></li>
+</ul>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Divyansh-Prakhar/count.svg?" />
