@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi, I'm Divyansh Prakhar</h2>
 
 <p align="left">
-I am a B.Tech Computer Science Engineering student from Bennett University, Greater Noida, graduating in 2027. With a strong interest in both software development and AI, I am actively building my skills as a Full Stack Developer and exploring the field of Machine Learning. I enjoy combining creativity with technology to develop meaningful and user-friendly applications.
+I am a B.Tech Computer Science Engineering student from Bennett University, Greater Noida, graduating in 2027. With a strong interest in both software development and AI, I am actively building my skills as a Backend developer and exploring the field of Machine Learning. I enjoy combining creativity with technology to develop meaningful and user-friendly applications.
 </p>
 
 ---
