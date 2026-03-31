@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi, I'm Divyansh Prakhar</h2>
 
 <p align="left">
-I am a B.Tech Computer Science Engineering student from Bennett University, Greater Noida, graduating in 2027. With a strong interest in both software development and AI, I am actively building my skills as a Backend developer and exploring the field of Machine Learning. I enjoy combining creativity with technology to develop meaningful and user-friendly applications.
+I am a B.Tech Computer Science Engineering student from Bennett University, Greater Noida, graduating in 2027. With a strong interest in backend engineering and AI, I am actively building scalable systems and exploring the field of Machine Learning. I focus on designing efficient APIs and developing data-driven applications.
 </p>
 
 ---
@@ -27,23 +27,19 @@ I am a B.Tech Computer Science Engineering student from Bennett University, Grea
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="AWS" />
 </div>
 
 ---
@@ -51,12 +47,11 @@ I am a B.Tech Computer Science Engineering student from Bennett University, Grea
 <h2 align="left">🛠️ Skills</h2>
 
 <ul align="left">
-  <li><strong>Languages:</strong> C++, Python, JavaScript, HTML, CSS</li>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Figma (UI Design)</li>
-  <li><strong>Backend:</strong> JSP, Node.js, Express.js</li>
-  <li><strong>Database:</strong> MySQL</li>
-  <li><strong>Tools & Cloud:</strong> Git, GitHub, AWS (EC2, S3, Lambda)</li>
-  <li><strong>Machine Learning & Data Science:</strong> NumPy, Pandas, scikit-learn</li>
+  <li><strong>Languages:</strong> C++, JavaScript, Python, Java</li>
+  <li><strong>Backend:</strong> Node.js, Express.js</li>
+  <li><strong>Databases:</strong> MongoDB, MySQL</li>
+  <li><strong>Tools & Platforms:</strong> Git, GitHub, Clerk, Stream</li>
+  <li><strong>Machine Learning:</strong> Scikit-learn, Pandas, NumPy, NLP</li>
 </ul>
 
 ---
@@ -65,22 +60,18 @@ I am a B.Tech Computer Science Engineering student from Bennett University, Grea
 
 <ul align="left">
   <li>
-    <strong>🎬 Movie Recommendation System</strong><br>
-    A personalized movie recommender system using collaborative and content-based filtering.<br>
-    <strong>Tech Stack:</strong> Python, Pandas, scikit-learn, Streamlit
+    <strong>💻 CodeRoom – Real-Time Coding Interview Platform</strong><br>
+    Built a scalable backend supporting real-time interviews with video and messaging.<br>
+    Designed REST APIs for authentication, session management, and room lifecycle, with optimized database performance.<br>
+    <strong>Tech Stack:</strong> Node.js, Express.js, MongoDB, Clerk, Stream
   </li><br>
+
   <li>
-    <strong>💪 FrogeFit – Fitness Tracking Website</strong><br>
-    A futuristic, dark-themed fitness platform offering personalized workout and diet plans.<br>
-    <strong>Tech Stack:</strong> HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Node.js, Express.js, MySQL
-  </li><br>
-  <li>
-    <strong>🔥 Maintenance Calorie Calculator</strong><br>
-    A responsive tool to calculate daily maintenance calories based on user input.<br>
-    <strong>Tech Stack:</strong> HTML, CSS, JavaScript, JSP
+    <strong>🧠 JobShield – AI-Based Scam Job Detection System</strong><br>
+    Developed a hybrid ML system combining logistic regression with rule-based heuristics for scam detection.<br>
+    Implemented NLP-based feature extraction and real-time analysis with explainable outputs.<br>
+    <strong>Tech Stack:</strong> Python, Scikit-learn, Pandas, NumPy, NLP, Streamlit
   </li>
 </ul>
 
 ---
-
-
